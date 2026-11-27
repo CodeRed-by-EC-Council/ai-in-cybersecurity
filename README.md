@@ -1,10 +1,10 @@
-# AI in Cybersecurity: Courses, Labs and CTFs from CodeRed
+# AI Security Courses, Labs and CTFs: AI in Cybersecurity from CodeRed
 
-Hands-on material on attacking, defending and governing AI systems, and on using AI in security work. Every item links to its CodeRed page. Free items are marked.
+AI security courses, hands-on labs and CTF challenges on attacking, defending and governing AI systems, and on using AI in security work. Every item links to its CodeRed page. Free items are marked.
 
 Free account: 15 CTFs, 15 labs and 25+ video courses at [coderedpro.com](https://coderedpro.com/?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai). Everything else is included with CodeRed Pro.
 
-## Courses (16)
+## AI security courses (16)
 
 | Course | What you learn |
 |---|---|
@@ -27,7 +27,7 @@ Free account: 15 CTFs, 15 labs and 25+ video courses at [coderedpro.com](https:/
 
 More: [all AI security courses](https://coderedpro.com/collections/ai-for-security?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai), [AI red teaming](https://coderedpro.com/collections/ai-red-teaming?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai), [AI agents](https://coderedpro.com/collections/ai-agents?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai), [AI governance](https://coderedpro.com/collections/ai-governance?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai), [all AI courses](https://coderedpro.com/collections/all-ai-courses?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai).
 
-## Hands-on labs (29)
+## AI security hands-on labs (29)
 
 | Lab | Level | Access | What you do |
 |---|---|---|---|
@@ -61,7 +61,7 @@ More: [all AI security courses](https://coderedpro.com/collections/ai-for-securi
 | [Constructing AI Red Teaming Orchestrators with PyRIT](https://coderedpro.com/products/constructing-ai-red-teaming-orchestrators-with-pyrit?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Advanced | Pro | Equips learners with the skills to design, build, and execute automated AI red teaming orchestrators using Python and the PyRIT framework. |
 | [Orchestrating Hybrid AI Red Team Operations](https://coderedpro.com/products/orchestrating-hybrid-ai-red-team-operations-10d?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Advanced | Free | Equips learners with the skills to design, execute, and analyze sophisticated hybrid AI red teaming attacks using the PyRIT framework. |
 
-## CTF challenges (9)
+## AI security CTF challenges (9)
 
 | Challenge | Level | Access | What you do |
 |---|---|---|---|
