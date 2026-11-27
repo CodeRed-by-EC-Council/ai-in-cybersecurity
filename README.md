@@ -10,19 +10,19 @@ Free account: 15 CTFs, 15 labs and 25+ video courses at [coderedpro.com](https:/
 |---|---|
 | [Agentic AI for Cybersecurity](https://coderedpro.com/products/agentic-ai-for-cybersecurity?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Mastering Defensive, Offensive, and Governance Aspects of Agentic AI. |
 | [AI and MCP for Reverse Engineering](https://coderedpro.com/products/ai-and-mcp-for-reverse-engineering?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | AI-assisted reversing by integrating LLMs with tools via Model Context Protocol (MCP) to automate & accelerate analysis. |
-| [AI-Driven Network Security](https://coderedpro.com/products/ai-driven-network-security?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) |
+| [AI-Driven Network Security](https://coderedpro.com/products/ai-driven-network-security?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Master AI-powered Cybersecurity: Hands-on Strategies for Enhanced Threat Detection and Real-World Implementation. |
 | [AI-driven Threat Hunting](https://coderedpro.com/products/ai-driven-threat-hunting-1?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Reinvent your threat hunting capabilities with AI. |
 | [AI for Reconnaissance and OSINT](https://coderedpro.com/products/ai-for-reconnaissance-and-osint?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Use AI to enhance reconnaissance, OSINT, social engineering analysis, and ethical security testing. |
 | [AI-Powered Cybersecurity Training](https://coderedpro.com/products/ai-powered-cybersecurity-training?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Equips learners with the skills to design, deploy, and evaluate an AI-powered phishing simulation chatbot. |
 | [AI-powered Threat Modeling](https://coderedpro.com/products/ai-powered-threat-modeling?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Use Artificial Intelligence to automate, scale, and enhance threat modeling, transforming how you identify, assess, and mitigate security risks. |
 | [Applied AI in Cybersecurity: Phishing Detection and Analysis](https://coderedpro.com/products/applied-ai-in-cybersecurity-phishing-detection-and-analysis?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Equips learners with practical skills to leverage commercial and open-source Large Language Models for generating phishing content. |
 | [Applying Machine Learning for Cybersecurity](https://coderedpro.com/products/applying-machine-learning-for-cybersecurity?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Applying data science principles and Python libraries to design, train, and validate a machine learning model that detects phishing URLs. |
-| [Adversarial Machine Learning: Understanding and Defense](https://coderedpro.com/products/adversarial-machine-learning-understanding-and-defense?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) |
+| [Adversarial Machine Learning: Understanding and Defense](https://coderedpro.com/products/adversarial-machine-learning-understanding-and-defense?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Defending AI systems from advanced threats with real-world strategies and hands-on adversarial labs. |
 | [Employee Cybersecurity Awareness in the Age of AI](https://coderedpro.com/products/employee-cybersecurity-awareness-in-the-age-of-ai?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | From Threat to Trust: Building the Human Firewall 2.0. |
 | [Generative AI for Cybersecurity](https://coderedpro.com/products/generative-ai-for-cybersecurity-course?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Building Resilient Cyber Defenses through Generative AI Methods. |
-| [Machine Learning for Hackers: The Ultimate Cybersecurity Weapon](https://coderedpro.com/products/machine-learning-for-hackers-the-ultimate-cybersecurity-weapon?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) |
+| [Machine Learning for Hackers: The Ultimate Cybersecurity Weapon](https://coderedpro.com/products/machine-learning-for-hackers-the-ultimate-cybersecurity-weapon?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Learn to attack and defend machine learning systems using real-world hacking techniques. |
 | [Secure AI Adoption: Strategy, Governance, and Risk](https://coderedpro.com/products/secure-ai-adoption-strategy-governance-and-risk?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Designing, governing, and securing enterprise AI through strategy, risk management, and operational excellence. |
-| [Securing Azure OpenAI Services](https://coderedpro.com/products/securing-azure-openai-services?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) |
+| [Securing Azure OpenAI Services](https://coderedpro.com/products/securing-azure-openai-services?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Securely deploy and manage Azure Open AI Services while maintaining compliance with security standards and regulations. |
 | [Securing Cloud, AI, and IoT Ecosystems](https://coderedpro.com/products/securing-cloud-ai-and-iot-ecosystems?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Governance for Emerging Technologies and Sovereign Data. |
 
 More: [all AI security courses](https://coderedpro.com/collections/ai-for-security?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai), [AI red teaming](https://coderedpro.com/collections/ai-red-teaming?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai), [AI agents](https://coderedpro.com/collections/ai-agents?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai), [AI governance](https://coderedpro.com/collections/ai-governance?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai), [all AI courses](https://coderedpro.com/collections/all-ai-courses?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai).
@@ -30,7 +30,7 @@ More: [all AI security courses](https://coderedpro.com/collections/ai-for-securi
 ## Hands-on labs (29)
 
 | Lab | Level | Access | What you do |
-|---|---|---|
+|---|---|---|---|
 | [AI-Driven Incident Response and Threat Intelligence](https://coderedpro.com/products/ai-driven-incident-response-and-threat-intelligence?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Intermediate | Pro | Applying Artificial Intelligence tools to analyze security incidents efficiently, identify root causes and threat patterns. |
 | [AI-Driven Phishing Simulation and Social Engineering Awareness](https://coderedpro.com/products/ai-driven-phishing-simulation-and-social-engineering-awareness?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Intermediate | Pro | Focuses on understanding how attackers craft convincing phishing and spear-phishing emails using AI-driven techniques. |
 | [AI-Driven Social Media Security & Phishing Analysis](https://coderedpro.com/products/ai-driven-social-media-security-phishing-analysis?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Intermediate | Pro | Focuses on building and deploying an AI-driven tool to analyze LinkedIn profiles for phishing susceptibility. |
@@ -64,7 +64,7 @@ More: [all AI security courses](https://coderedpro.com/collections/ai-for-securi
 ## CTF challenges (9)
 
 | Challenge | Level | Access | What you do |
-|---|---|---|
+|---|---|---|---|
 | [CogniTrace1](https://coderedpro.com/products/cognitrace1?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Intermediate | Pro | Digital forensic analysis of AI model metadata to identify the origin of a suspicious language model. |
 | [CogniTrace2](https://coderedpro.com/products/cognitrace2?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Intermediate | Pro | A forensic investigation of a transformer-based AI model suspected to be part of a larger cyber operation. |
 | [CogniTrace3](https://coderedpro.com/products/cognitrace3?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ai) | Intermediate | Pro | Binary forensic analysis and AI model attribution using embedded configuration recovery techniques. |
